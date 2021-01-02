@@ -7,7 +7,7 @@ My name is Lucas Visentin 🇧🇷
 I'm a **front-end developer** since 2018, always looking to create good solutions and get my development skills to the next level.
 I'm currently working with **Angular** and learning **ReactJS**.
 
-💻 My skills are: HTML5, CSS3, JavaScript, SASS, Bootstrap, Angular & Angular Material.
+💻 My skills are: HTML5, CSS3, JavaScript, SASS, Bootstrap, Angular & Angular Material and Ionic.
 
 💼 I actually work for GFT Technologies and Grupo Primo Rico.
 
