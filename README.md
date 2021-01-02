@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/lvisentin/lvisentin/main/programmer.png" width="400px" height="400px" align="right">
+
 ### Hi there 👋
 
 My name is Lucas Visentin 🇧🇷
@@ -11,9 +13,6 @@ I'm currently working with Angular and learning ReactJS.
 Reach me out! 👇🏽
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/lvisentin/)
-
-<a href="https://www.instagram.com/_lvisentin/" alt="Instagram">
-<img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
 
 <!--
 **lvisentin/lvisentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
