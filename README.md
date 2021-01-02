@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/lvisentin/lvisentin/main/programmer.png" width="400px" height="400px" align="right">
+<img src="https://raw.githubusercontent.com/lvisentin/lvisentin/main/programmer.svg" width="400px" height="400px" align="right">
 
 ### Hi there 👋
 
