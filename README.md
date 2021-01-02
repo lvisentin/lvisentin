@@ -10,6 +10,10 @@ Always looking to create good solutions and get my development skills to the nex
 
 I'm currently working with Angular and learning ReactJS.
 
+💻 My skills are: HTML5, CSS3, JavaScript, SASS, Bootstrap, Angular & Angular Material.
+
+💼 I actually work for GFT Technologies and Grupo Primo Rico.
+
 Reach me out! 👇🏽
 
 <p align="left">
