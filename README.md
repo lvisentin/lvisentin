@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/lvisentin/lvisentin/main/programmer3.svg" width="400px" height="400px" align="right">
 
-### Hi there 👋
+### Hi there 👋🏽
 
 My name is Lucas Visentin 🇧🇷
 
