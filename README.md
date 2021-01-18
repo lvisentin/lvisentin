@@ -9,7 +9,7 @@ I'm currently working with **Angular** and learning **ReactJS**.
 
 💻 My skills are: HTML5, CSS3, JavaScript, SASS, Bootstrap, Angular & Angular Material and Ionic.
 
-💼 I actually work for <a href="https://www.gft.com/int/en/index/">GFT Technologies</a> and <a href="https://www.oprimorico.com.br/">Grupo Primo Rico</a>.
+💼 I actually work for <a href="https://www.gft.com/int/en/index/">GFT Technologies</a>.
 
 Reach me out! 👇🏽
 
