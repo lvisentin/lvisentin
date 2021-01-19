@@ -22,11 +22,4 @@ Reach me out! 👇🏽
   
   <a href="mailto:lvise.batista@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lvise.batista@gmail.com">
-</p>  
-
-
-<!--
-**lvisentin/lvisentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
-
-Here are some ideas to get you started:
-
+</p>
