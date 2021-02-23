@@ -23,5 +23,6 @@ Reach me out! 👇🏽
   <a href="mailto:lvise.batista@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lvise.batista@gmail.com">
 </p>
+<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvisentin)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvisentin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
