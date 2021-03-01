@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/lvisentin/lvisentin/main/programmer3.svg" width="400px" height="400px" align="right">
 
 ### Hi there 👋🏽
 
@@ -25,4 +24,3 @@ Reach me out! 👇🏽
 </p>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvisentin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
