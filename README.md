@@ -8,7 +8,7 @@ I'm currently working with **Angular** and learning **ReactJS**.
 
 💻 My skills are: HTML5, CSS3, JavaScript, SASS, Bootstrap, Angular & Angular Material and Ionic.
 
-💼 I actually work for <a href="https://www.gft.com/int/en/index/">GFT Technologies</a> and own <a href="https://cybro.com.br"> Cybro Solutions </a>.
+💼 I actually work for <a href="https://www.wexinc.com/">Wex Inc</a> and own <a href="https://cybro.com.br"> Cybro Solutions </a>.
 
 Reach me out! 👇🏽
 
