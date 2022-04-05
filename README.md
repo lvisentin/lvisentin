@@ -8,8 +8,6 @@ I'm currently working with **Angular** and learning **ReactJS**.
 
 💻 My skills are: HTML5, CSS3, JavaScript, SASS, Bootstrap, Angular & Angular Material and Ionic.
 
-💼 I actually work for <a href="https://www.wexinc.com/">Wex Inc</a>.
-
 Reach me out! 👇🏽
 
 <p align="left">
