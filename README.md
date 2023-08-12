@@ -9,6 +9,7 @@ I'm currently working with **Angular** and **NextJS**.
 The projects that I'm currently working on are:
 
 [English Helper](https://app.englishhelper.com.br) - My SaaS for people that are learning english (Done - Still adding new features).
+
 [Ferramentas Financeiras](https://ferramentasfinanceiras.com.br) - Financial tools like calculators and some other fun stuff (In progress).
 
 💻 My skills are: 
