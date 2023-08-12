@@ -3,10 +3,24 @@
 
 My name is Lucas Visentin 🇧🇷
 
-I'm a **front-end developer** since 2018, always looking to create good solutions and get my development skills to the next level.
-I'm currently working with **Angular** and learning **ReactJS**.
+I'm a **software engineer** since 2018, always looking to create good solutions and get my development skills to the next level.
+I'm currently working with **Angular** and **NextJS**.
 
-💻 My skills are: HTML5, CSS3, JavaScript, SASS, Bootstrap, Angular & Angular Material and Ionic.
+The projects that I'm currently working on are:
+English Helper[https://app.englishhelper.com.br] - My SaaS for people that are learning english (Done - Still adding new features).
+Ferramentas Financeiras[https://ferramentasfinanceiras.com.br] - Financial tools like calculators and some other fun stuff (In progress).
+
+💻 My skills are: 
+- HTML
+- CSS
+- JavaScript
+- React
+- Angular
+- NextJS
+- Tailwind
+- Karma/Jasmine/Jest
+- SASS
+Probably I forgot some stuff, but Im focused on the front-end.
 
 Reach me out! 👇🏽
 
