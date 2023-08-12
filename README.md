@@ -7,6 +7,7 @@ I'm a **software engineer** since 2018, always looking to create good solutions 
 I'm currently working with **Angular** and **NextJS**.
 
 The projects that I'm currently working on are:
+
 [English Helper](https://app.englishhelper.com.br) - My SaaS for people that are learning english (Done - Still adding new features).
 [Ferramentas Financeiras](https://ferramentasfinanceiras.com.br) - Financial tools like calculators and some other fun stuff (In progress).
 
@@ -20,6 +21,7 @@ The projects that I'm currently working on are:
 - Tailwind
 - Karma/Jasmine/Jest
 - SASS
+  
 Probably I forgot some stuff, but Im focused on the front-end.
 
 Reach me out! 👇🏽
