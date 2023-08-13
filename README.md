@@ -3,10 +3,10 @@
 
 My name is Lucas Visentin 🇧🇷
 
-I'm a **software engineer** since 2018, always looking to create good solutions and get my development skills to the next level.
-I'm currently working with **Angular** and **NextJS**.
+I'm a **software engineer** since 2018, working focused on the front-end since then.
+Im always trying to build something, and currently I am working with **Angular** and **NextJS**.
 
-The projects that I'm currently working on are:
+These are the projects that Im currently working on:
 
 [English Helper](https://app.englishhelper.com.br) - My SaaS for people that are learning english (Done - Still adding new features).
 
