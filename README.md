@@ -10,8 +10,6 @@ These are the projects that Im currently working on:
 
 [English Helper](https://app.englishhelper.com.br) - My SaaS for people that are learning english (Done - Still adding new features).
 
-[Ferramentas Financeiras](https://ferramentasfinanceiras.com.br) - Financial tools like calculators and some other fun stuff (In progress).
-
 💻 My skills are: 
 - HTML
 - CSS
