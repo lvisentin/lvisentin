@@ -18,9 +18,6 @@ Probably I forgot some stuff, but Im working as a fullstack and working on some 
 Reach me out! 👇🏽
 
 <p align="left">
-  <a href="https://www.instagram.com/lucas.visentin/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lucas.visentin/"/></a>
-  
   <a href="https://www.linkedin.com/in/lvisentin" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lvisentin" /></a>
   
