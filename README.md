@@ -3,25 +3,15 @@
 
 My name is Lucas Visentin 🇧🇷
 
-I'm a **software engineer** since 2018, working focused on the front-end since then.
-Im always trying to build something, and currently I am working with **Angular** and **NextJS**.
+I'm a **software engineer** since 2018, trying to build some fun stuff.
 
-These are the projects that Im currently working on:
+Some of my projects:
 
 [English Helper](https://app.englishhelper.com.br) - My SaaS for people that are learning english (Done - Still adding new features).
-
-💻 My skills are: 
-- HTML
-- CSS
-- JavaScript
-- React
-- Angular
-- NextJS
-- Tailwind
-- Karma/Jasmine/Jest
-- SASS
+[Minhas Finanças](https://minhasfinancas.ai) - Whatsapp agent SaaS for managing personal finance.
+[Cybro](https://cybro.com.br) - My company
   
-Probably I forgot some stuff, but Im focused on the front-end.
+Probably I forgot some stuff, but Im working as a fullstack and working on some automations with AI.
 
 Reach me out! 👇🏽
 
