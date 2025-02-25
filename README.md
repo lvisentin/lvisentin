@@ -8,7 +8,9 @@ I'm a **software engineer** since 2018, trying to build some fun stuff.
 Some of my projects:
 
 [English Helper](https://app.englishhelper.com.br) - My SaaS for people that are learning english (Done - Still adding new features).
+
 [Minhas Finanças](https://minhasfinancas.ai) - Whatsapp agent SaaS for managing personal finance.
+
 [Cybro](https://cybro.com.br) - My company
   
 Probably I forgot some stuff, but Im working as a fullstack and working on some automations with AI.
